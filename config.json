@@ -1,0 +1,20 @@
+[
+    {
+        "id": "traffic_light",
+        "keywords": [
+            "red",
+            "yellow",
+            "green"
+        ]
+    },
+    {
+        "id": "tree",
+        "keywords": [
+            "tree",
+            "wood",
+            "leaf",
+            "green"
+        ]
+    }
+]
+
