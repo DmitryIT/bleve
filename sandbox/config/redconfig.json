@@ -1,0 +1,28 @@
+[
+    {
+        "lang": "eng",
+        "keywords":[
+            "red",
+            "yellow",
+            "green"
+        ],
+        "quickfilter":{
+            "prop1": [1,2],
+            "prop2": {"a": "abc"},
+            "prop3": {"abc": "abc"}
+        }
+    },
+    {
+        "lang": "deu",
+        "keywords":[
+            "rot",
+            "gelb",
+            "grün"
+        ],
+        "quickfilter":{
+            "prop1": [2,3],
+            "prop2": {"x": "xyz"},
+            "prop3": {"y": "xyz"}
+        } 
+    }
+]
