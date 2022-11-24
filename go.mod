@@ -1,6 +1,6 @@
 module github.com/dmitryit/bleve
 
-go 1.18
+go 1.19
 
 require github.com/blevesearch/bleve/v2 v2.3.5
 
