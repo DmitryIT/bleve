@@ -2,7 +2,7 @@ module github.com/dmitryit/bleve
 
 go 1.23
 
-require github.com/blevesearch/bleve/v2 v2.5.2
+require github.com/blevesearch/bleve/v2 v2.5.3
 
 require (
 	github.com/bits-and-blooms/bitset v1.22.0 // indirect
@@ -20,7 +20,7 @@ require (
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.4.5 // indirect
-	github.com/blevesearch/geo v0.2.3 // indirect
+	github.com/blevesearch/geo v0.2.4 // indirect
 	github.com/blevesearch/go-faiss v1.0.25 // indirect
 	github.com/blevesearch/go-porterstemmer v1.0.3 // indirect
 	github.com/blevesearch/mmap-go v1.0.4 // indirect
